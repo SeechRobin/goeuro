@@ -12,9 +12,9 @@ Querying Location API
 
 
 ### Command Line ###
-1.File > Export > Java > Runnable Jar File
-2.Select the appropriate name and save Jar
-3.run this commad java -jar GoEuroTest.jar "STRING" where "STRING" is the query
+1. File > Export > Java > Runnable Jar File
+2. Select the appropriate name and save Jar
+3. run this commad java -jar GoEuroTest.jar "STRING" where "STRING" is the query
 
 
 
